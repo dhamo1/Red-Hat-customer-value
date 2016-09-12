@@ -1,4 +1,4 @@
-# project6
+# Redhat Customer business value prediction
 This is a kaggle competition
 Redhat wants to predict the business value of its customers
 This project tries to create a classification algorithm that accurately identifies which customers have the most potential business value
